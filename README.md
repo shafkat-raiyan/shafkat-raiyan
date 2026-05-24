@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RtcjBnb3ZrZHViazdhbjNqM3BkMHExN2xnZTFrNzI3bDUxcmM4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pBy26O1HG80eaLuUxb/giphy.gif"/>
   
   <h1>SYED SHAFKAT RAIYAN</h1>
   
