@@ -17,5 +17,5 @@
 
 ---
 <div align="center">
-  <img src="profile.gif" width="700" alt="Shafkat's System Dashboard" />
+  <video src="profile.mp4" autoplay loop muted playsinline width="800" style="pointer-events: none;"></video>
 </div>
