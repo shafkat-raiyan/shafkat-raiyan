@@ -17,5 +17,5 @@
 
 ---
 <div align="center">
-  <video src="https://raw.githubusercontent.com/shafkat-raiyan/shafkat-raiyan/main/profile.mp4" autoplay loop muted playsinline width="800" style="pointer-events: none;"></video>
+  <img src="profile.gif" width="800" alt="Shafkat's System Dashboard" />
 </div>
