@@ -16,3 +16,6 @@
 </div>
 
 ---
+<div align="center">
+  <img src="profile.gif" width="700" alt="Shafkat's System Dashboard" />
+</div>
